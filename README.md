@@ -1,5 +1,5 @@
 # M1 AI 2021 -- Project A
-Material for the M1 AI class at University Paris-Saclay
+Material for the M1 AI Project A at University Paris-Saclay: Create your own challenge!
 
 Clone this repo and make changes as desired. Keep the structure of the starting kit. The directory FILES contains additional useful files that will be needed when uploading the challenge to Codalab.
 
