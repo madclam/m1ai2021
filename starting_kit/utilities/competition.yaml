@@ -1,11 +1,11 @@
-# One-size-fit-all YAML file to build an M2AIC 2018-2019 challenge bundle
+# One-size-fit-all YAML file to build an M2 [AI] 2020-2021 challenge bundle
 
 # DO NOT MODIFY
 
-# Isabelle Guyon -- May 13, 2019
+# Isabelle Guyon -- May 13, 2019, updated Dec 10, 2020
 
 title: Sample Competition  
-description: Sample competition M2AIC 2018-2019
+description: Sample competition M2 [AI] 2020-2021
 image: logo.jpg
 has_registration: False                 # We do not check participants, registration is free
 force_submission_to_leaderboard: True   # If false, participants must submit manually, do not change
