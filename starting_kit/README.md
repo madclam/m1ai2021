@@ -5,7 +5,7 @@ References and credits:
 R. A. Fisher. The use of multiple measurements in taxonomic problems. Annual Eugenics, 7, Part II, 179-188 (1936). 
 
 Prerequisites:
-Install Anaconda Python 3.6.6 
+Install Anaconda Python 3.8.5 
 
 Usage:
 
